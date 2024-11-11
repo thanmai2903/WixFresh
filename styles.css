@@ -1,0 +1,38 @@
+.header {
+  margin-top: 30px;
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+body {
+  overflow-x: hidden; /* Hides horizontal overflow */
+  max-width: 100%;
+}
+.head {
+  padding-top: 10px;
+  margin-right: 25px;
+}
+.heads {
+  margin-right: 30px;
+}
+.button {
+  border: none;
+  background-color: blue;
+  color: white;
+  padding-left: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-top: 30px;
+}
+.section {
+  margin: 30px 300px 10px 300px;
+}
+.footer {
+  text-align: center;
+  background-color: black;
+}
+.foot {
+  display: flex;
+  flex-wrap: nowrap;
+  color: white;
+}
